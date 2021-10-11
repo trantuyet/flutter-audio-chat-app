@@ -1,16 +1,5 @@
-# ayyo_mycheckk
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# flutter-audio-chat-app
+Bài làm theo hướng dẫn dài và dởm trên blog getstream.io, có chỉnh sửa nhiều chút so với hướng dẫn mới có thể thành công. <br>
+tuiii đã dịch bài hướng dẫn không giống bản gốc lắm ở đây, mong là sẽ giúp ích cho các hạ được gì đó he he <33333 <br>
+# link bài hướng dẫn:<br>
+https://viblo.asia/p/gui-tin-nhan-thoai-tuc-thoi-voi-stream-chat-va-flutter-bai-dich-da-thu-va-thanh-cong-he-he-1Je5E6qAKnL
